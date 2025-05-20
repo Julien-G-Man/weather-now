@@ -5,7 +5,7 @@ A simple, modern Django web app to get real-time weather updates for any city.
 ## Features
 
 - Search for any city to get current weather data
-- Displays country code, coordinates, temperature (°C), pressure, and humidity
+- Displays country code, coordinates, temperature (K and °C), pressure, and humidity
 - Clean, responsive UI with Bootstrap 5
 - Weather icons from OpenWeatherMap
 
