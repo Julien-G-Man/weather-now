@@ -56,9 +56,33 @@ Visit [http://127.0.0.1:8000/](http://127.0.0.1:8000/) in your browser.
 weatherdetector/
   └── templates/
       └── index.html
-  └── ... (other Django app files)
+  └── weather/
+      └──_pycache_
+      └──migrations
+          └──_pycache_
+              _init_.py
+          _init_.py
+      _init_.py
+      admin.py
+      apps.py
+      models.py
+      tests.py
+      urls.py
+      views.py
+  └──weatherdetector/
+      └──_pycache_
+          _init_.cpython-313.pyc
+          settings.cpython-313.pyc
+          urls.cpython-313.pyc
+          wsgi.cpython-313.pyc
+      asgi.py
+      settings.py
+      urls.py
+      wsgi.py
+
+db.sqlite3  
 manage.py
-requirements.txt
+README.md
 ```
 
 ## Technologies Used
